@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+tesserocr
+pytesseract
+pyocr

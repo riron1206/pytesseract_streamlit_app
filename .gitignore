@@ -1,0 +1,4 @@
+tmp/
+old/
+__pycache__/
+git_push.bat
