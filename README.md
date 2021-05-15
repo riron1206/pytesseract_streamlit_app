@@ -8,7 +8,9 @@
 
 ※日本語対応するには重みファイルDL必要
 
-- 参考: https://qiita.com/kamome885/items/d048ad10c4bf7f56c748
+- 手順参考: https://qiita.com/kamome885/items/d048ad10c4bf7f56c748
+
+- 重みファイルDLサイト: https://github.com/tesseract-ocr/tessdata_best
 
   
 
