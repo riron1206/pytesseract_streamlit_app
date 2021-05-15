@@ -1,6 +1,8 @@
 streamlit
 numpy
 pandas
+pillow
+opencv-python-headless
 tesserocr
 pytesseract
 pyocr
