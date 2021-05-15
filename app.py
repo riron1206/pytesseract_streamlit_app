@@ -199,7 +199,7 @@ def main():
         )
         args.__setattr__("psm", st_psm)
 
-    st_border = st.sidebar.slider("rgbのしきい値", 50, 200, step=10, value=100)
+    st_border = st.sidebar.slider("rgbのしきい値", 50, 255, step=10, value=100)
     args.__setattr__("border", st_border)
 
     # Tesseractインスタンス
