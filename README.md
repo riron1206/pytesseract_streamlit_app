@@ -1,6 +1,6 @@
 # Streamlitでpytesseract使ったOCR
 
-<img src="image/app_run.gif" alt="gif" style="zoom:50%;" />
+<img src="sample_image/demo.gif" alt="gif" style="zoom:50%;" />
 
 
 
@@ -15,7 +15,5 @@
   
 
 
-##### https://share.streamlit.io/riron1206/compare_stock_growth_rate_streamlit_app/app.py にアプリデプロイしてる
-
-- デプロイ方法参考: https://tech.ledge.co.jp/entry/2020/10/20/120000
+tesseract のinstallに失敗するため、share.streamlit.io にデプロイできなかった…
 
